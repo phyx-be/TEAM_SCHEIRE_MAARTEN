@@ -6,8 +6,8 @@ We based our design around a [Microchip ATSAMD11C14](https://www.microchip.com/w
 
 ## Hardware Revision 00
 
-![3D render of TEAM_SCHEIRE_MAARTEN](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/TEAM_SCHEIRE_MAARTEN_00/3D_VIEW_TOP_COLOR.PNG?raw=true)
+![3D render of TEAM_SCHEIRE_MAARTEN](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/Team_Scheire_Maarten_00/3D_VIEW_TOP_COLOR.PNG?raw=true)
 
-![Photo of TEAM_SCHEIRE_MAARTEN](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/TEAM_SCHEIRE_MAARTEN_00/TEAM_SCHEIRE_MAARTEN_PHOTO.PNG?raw=true)
+![Photo of TEAM_SCHEIRE_MAARTEN](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/Team_Scheire_Maarten_00/TEAM_SCHEIRE_MAARTEN_PHOTO.PNG?raw=true)
 
-![Screengrab of the opening credits](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/TEAM_SCHEIRE_MAARTEN_00/VRTNU.JPG?raw=true)
+![Screengrab of the opening credits](https://github.com/phyx-be/TEAM_SCHEIRE_MAARTEN/blob/master/Team_Scheire_Maarten_00/VRTNU.JPG?raw=true)
